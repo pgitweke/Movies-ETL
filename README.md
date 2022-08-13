@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The aim of this project was to refactor the previous code to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
+The aim of this project was to refactor the previous code to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data and performs the ETL process by adding the data to a PostgreSQL database.
 
 Below is an overview of the steps we took to through the ETL process:
 
