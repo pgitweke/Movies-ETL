@@ -11,7 +11,7 @@ Below is an overview of the steps we took to through the ETL process:
 - Extract and transform the Kaggle and rating data,
 - Load the data to a PostgreSQL Movie Database.
 
-## Resources and Before Start Notes:
+## Resources:
 
     Data Source: wikipedia-movies.json, movies_metadata.csv, ratings.csv 
     Data Tools: PostgreSQL, pgAdmin
